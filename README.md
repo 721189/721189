@@ -26,7 +26,7 @@ Production-grade architecture
  3. AI-assisted analysis and evidence-grounded responses 
  4. Redis/Celery-based data infrastructure 
  5.Authentication, access control, observability and CI/CD 
- 6.NASA, Copernicus and other environmental data sources 
+ 6.NASA, Copernicus and other environmental data sources  
 [github.com/721189/AetherLab](https://github.com/721189/AetherLab)
 
 **Market Research Agent** — Autonomous research system  
