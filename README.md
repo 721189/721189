@@ -1,16 +1,42 @@
-## Hi there 👋
+# Shiv | Systems Architect
 
-<!--
-**721189/721189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building the future of autonomous swarms.
 
-Here are some ideas to get you started:
+## 🐝 Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**SWARMOS** — Byzantine-resilient distributed consensus OS for autonomous swarms  
+Production-grade architecture | 9.5/10 quality  
+[github.com/721189/SWARMOS](https://github.com/721189/SWARMOS)
+
+**AetherLab** — Environmental intelligence platform  
+[github.com/721189/AetherLab](https://github.com/721189/AetherLab)
+
+**Market Research Agent** — Autonomous research system  
+[github.com/721189/Market-Research-Agent](https://github.com/721189/Market-Research-Agent)
+
+## 🎓 Background
+
+BS Data Science & Applications | IIT Madras (2027)
+
+## 🏢 Ecosystem
+
+- **AWS:** Builder, SBG IIT Madras
+- **Google:** Developer Program, GEAR track, Agent Valley
+- **NVIDIA:** Developer Program
+
+## 💡 What I Focus On
+
+- Distributed consensus algorithms
+- Byzantine fault tolerance
+- LLM integration for autonomous systems
+- Production-grade reliability
+- Reproducible science
+
+## 🔗 Connect
+
+🔗 [LinkedIn](https://linkedin.com/in/shiv721189)  
+📝 [Substack](https://shivlab.substack.com)  
+
+---
+
+*Committed to building systems that work under adversarial conditions.*
