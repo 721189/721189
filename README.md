@@ -1,77 +1,151 @@
-# Shiv | Systems Architect
+ # Shivam Singh | AI & Systems Engineer
 
-Building the future of autonomous swarms.
+**Building intelligent, reliable systems at the intersection of AI, distributed systems, and autonomous agents.**
+
+[GitHub](https://github.com/721189) · [LinkedIn](https://www.linkedin.com/in/shivam-singh360) · [Substack](https://shivlab.substack.com/)
+
+---
 
 ## 🐝 Current Work
 
-**SWARMOS** — Byzantine-resilient distributed consensus OS for autonomous swarms  
-Production-grade architecture  
+### [SWARMOS](https://github.com/721189/SWARMOS)
 
-1. CBBA-based decentralized task allocation 
- 2.Byzantine-aware consensus validation and node isolation 
-3. Failure injection and recovery mechanisms 
-4. Stochastic communication/network modeling 
-5. Deterministic experiment generation and reproducibility 
- 6.Large-scale empirical benchmarking across thousands of trials 
-7. Safety-constrained mission planning 
-8. LLM-assisted mission generation using NVIDIA Nemotron 
-9. Python + TypeScript distributed-systems architecture 
+**Secure & Resilient Swarm Orchestration System**
 
-[github.com/721189/SWARMOS](https://github.com/721189/SWARMOS)
+A research-oriented framework for resilient decentralized coordination in autonomous swarms.
 
-**AetherLab** — Environmental intelligence platform 
+* CBBA-based decentralized task allocation
+* Byzantine-aware anomaly detection, validation, and node isolation
+* Failure injection and recovery mechanisms
+* Stochastic communication and network modeling
+* Deterministic experiment generation and reproducibility
+* Large-scale empirical benchmarking and statistical evaluation
+* Safety-constrained mission planning
+* LLM-assisted mission generation using NVIDIA Nemotron
+* Python + TypeScript distributed-systems architecture
 
- 1.FastAPI + Next.js + PostgreSQL architecture 
- 2.Environmental data ingestion and provenance 
- 3. AI-assisted analysis and evidence-grounded responses 
- 4. Redis/Celery-based data infrastructure 
- 5.Authentication, access control, observability and CI/CD 
- 6.NASA, Copernicus and other environmental data sources  
-[github.com/721189/AetherLab](https://github.com/721189/AetherLab)
+**Focus:** Multi-agent systems · Swarm robotics · Resilient coordination · Distributed systems · Reproducible research
 
-**Market Research Agent** — Autonomous research system  
+---
 
- 1. Autonomous research workflows 
- 2. LLM-driven information extraction and synthesis 
- 3. Tool-based agent execution 
-[github.com/721189/Market-Research-Agent](https://github.com/721189/Market-Research-Agent)
+### [AetherLab](https://github.com/721189/AetherLab)
 
- **Swarm Robotics** — Communication-Constrained Swarm Research
+**Environmental Intelligence & Autonomous Agent Platform**
 
-1.  TDMA-based communication models 
-2.  CBBA and decentralized task allocation 
-3.  Packet loss and communication constraints 
-4.  Fault-tolerant coordination 
-5.  Event-driven consensus 
-6. Statistical evaluation and reproducible benchmarking 
-7.  Multi-agent simulation and 3D visualization
+A full-stack platform combining environmental data, geospatial intelligence, and evidence-grounded AI.
 
-## 🎓 Background
+* FastAPI + Next.js + PostgreSQL architecture
+* Environmental data ingestion and provenance tracking
+* Evidence-grounded AI analysis and responses
+* Redis + Celery data infrastructure
+* Authentication and access control
+* Observability and CI/CD
+* Integration with NASA, Copernicus, and other environmental data sources
 
- 1. IIT Madras —Undergraduate
- 2. AWS Builder — SBG IIT Madras
- 3.  Google Developer Program — GEAR
- 4. NVIDIA Developer Program
- 5. BS Data Science & Applications | IIT Madras (2027)
+**Focus:** AI systems · Full-stack engineering · Data infrastructure · Scientific computing · Autonomous agents
 
-## 🏢 Ecosystem
+---
 
-- **AWS:** Builder, SBG IIT Madras
-- **Google:** Developer Program, GEAR track, Agent Valley
-- **NVIDIA:** Developer Program
+### [Market Research Agent](https://github.com/721189/Market-Research-Agent)
 
-## 💡 What I Focus On
+**Autonomous Market Intelligence System**
 
-- Distributed consensus algorithms
-- Byzantine fault tolerance
-- LLM integration for autonomous systems
-- Production-grade reliability
-- Reproducible science
+* Autonomous research workflows
+* LLM-driven information extraction and synthesis
+* Tool-based agent execution
+* Evidence-oriented research pipelines
+* Structured market intelligence generation
+
+**Focus:** AI agents · LLM systems · Research automation · Information synthesis
+
+---
+
+### [Swarm Robotics](https://github.com/721189/swarm-robotics)
+
+**Communication-Constrained Swarm Research**
+
+* TDMA-based communication models
+* CBBA and decentralized task allocation
+* Packet-loss and communication constraints
+* Fault-tolerant coordination
+* Event-driven consensus
+* Statistical evaluation and reproducible benchmarking
+* Multi-agent simulation and 3D visualization
+
+**Focus:** Swarm robotics · multi-agent coordination · Communication-constrained systems · Simulation
+
+---
+
+## 🔬 Research
+
+My current research interests include:
+
+* Multi-agent systems
+* Swarm robotics
+* Distributed consensus
+* Byzantine fault tolerance
+* Reinforcement learning
+* Reliable and safety-aware AI systems
+* AI agents and LLM-integrated systems
+* Reproducible experimentation and empirical evaluation
+
+---
+
+## 🎓 Education
+
+**Indian Institute of Technology Madras (IIT Madras)**
+BS in Data Science and Applications · **2026–Present**
+
+---
+
+## 🌐 Developer & Research Ecosystem
+
+* **Google:** Google Developer Program · GEAR
+* **AWS:** AWS Builder · SBG IIT Madras
+* **NVIDIA:** NVIDIA Developer Program
+
+These ecosystems support my work across AI, cloud, developer technologies, and autonomous systems.
+
+---
+
+## 🛠️ Technical Interests
+
+**AI & ML**
+AI Agents · LLM Systems · RAG · Information Retrieval · Evaluation · Applied ML
+
+**Software & Systems**
+Python · TypeScript · FastAPI · Next.js · React · Node.js · PostgreSQL · Redis · Celery · Docker · CI/CD
+
+**Research & Autonomous Systems**
+Multi-Agent Systems · Swarm Robotics · Distributed Coordination · Consensus · Simulation · Statistical Benchmarking
+
+---
+
+## 📌 What I Build
+
+I am particularly interested in systems that must remain **useful, reliable, and measurable under difficult conditions**.
+
+That includes:
+
+* Distributed and decentralized systems
+* Autonomous multi-agent coordination
+* AI agents operating over real data and tools
+* Safety- and reliability-oriented AI systems
+* Reproducible research infrastructure
+* Full-stack systems that turn research ideas into usable products
+
+---
 
 ## 🔗 Connect
 
-🔗 [LinkedIn](https://linkedin.com/in/shiv721189)  
-📝 [Substack](https://shivlab.substack.com)  
+* [LinkedIn](https://www.linkedin.com/in/shivam-singh360)
+* [Substack](https://shivlab.substack.com/)
+* [GitHub](https://github.com/721189)
+
+---
+
+> **Building systems that remain useful when conditions stop being ideal.**
+
 
 ---
 
