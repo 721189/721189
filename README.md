@@ -1,4 +1,4 @@
- # Shivam Singh | AI & Systems Engineer
+# Shivam Singh | AI & Systems Engineer
 
 **Building intelligent, reliable systems at the intersection of AI, distributed systems, and autonomous agents.**
 
@@ -73,6 +73,16 @@ A full-stack platform combining environmental data, geospatial intelligence, and
 * Multi-agent simulation and 3D visualization
 
 **Focus:** Swarm robotics · multi-agent coordination · Communication-constrained systems · Simulation
+
+---
+
+### Project stubs in this repository
+
+- [Swarmos](https://github.com/721189/721189/blob/main/projects/swarmos/README.md) — Lightweight swarm operating system for modular robots.
+- [Swarm Robotics (repo stub)](https://github.com/721189/721189/blob/main/projects/swarm-robotics/README.md) — Research and experiments for multi-robot coordination algorithms.
+- [OmniApply Agent](https://github.com/721189/721189/blob/main/projects/omniapply-agent/README.md) — Intelligent agent to automate job/application workflows across platforms.
+- [Market Metrics](https://github.com/721189/721189/blob/main/projects/market-metrics/README.md) — Tools and dashboards to collect, analyze, and visualize market data.
+- [Synapse Memory](https://github.com/721189/721189/blob/main/projects/synapse-memory/README.md) — Memory system for cognitive architectures and long-term representation.
 
 ---
 
