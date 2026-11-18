@@ -1,162 +1,162 @@
-# Shivam Singh | AI & Systems Engineer
+<!-- GitHub profile README for Shivam Singh -->
 
-**Building intelligent, reliable systems at the intersection of AI, distributed systems, and autonomous agents.**
+<div align="center">
 
-[GitHub](https://github.com/721189) · [LinkedIn](https://www.linkedin.com/in/shivam-singh360) · [Substack](https://shivlab.substack.com/)
+<img src="https://raw.githubusercontent.com/721189/721189/main/assets/profile-hero.svg" alt="Shivam Singh — AI systems, full-stack engineering and autonomous agents" width="100%"/>
 
----
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=70E1F5&center=true&vCenter=true&width=720&lines=Engineering+AI-powered+systems;Building+reliable+agents+and+developer+tools;Exploring+multi-agent+systems+%26+swarm+robotics;Turning+research+ideas+into+working+software" alt="Animated introduction"/></a>
 
-## 🐝 Current Work
+<p>
+  <a href="https://www.linkedin.com/in/shivam-singh360">LinkedIn</a> ·
+  <a href="https://github.com/721189?tab=repositories">Projects</a> ·
+  <a href="https://shivlab.substack.com/">Writing</a>
+</p>
 
-### [SWARMOS](https://github.com/721189/SWARMOS)
-
-**Secure & Resilient Swarm Orchestration System**
-
-A research-oriented framework for resilient decentralized coordination in autonomous swarms.
-
-* CBBA-based decentralized task allocation
-* Byzantine-aware anomaly detection, validation, and node isolation
-* Failure injection and recovery mechanisms
-* Stochastic communication and network modeling
-* Deterministic experiment generation and reproducibility
-* Large-scale empirical benchmarking and statistical evaluation
-* Safety-constrained mission planning
-* LLM-assisted mission generation using NVIDIA Nemotron
-* Python + TypeScript distributed-systems architecture
-
-**Focus:** Multi-agent systems · Swarm robotics · Resilient coordination · Distributed systems · Reproducible research
+</div>
 
 ---
 
-### [AetherLab](https://github.com/721189/AetherLab)
+## About
 
-**Environmental Intelligence & Autonomous Agent Platform**
+I'm an engineering student at **IIT Madras**, focused on building practical software at the intersection of **AI engineering, full-stack systems, and autonomous agents**.
 
-A full-stack platform combining environmental data, geospatial intelligence, and evidence-grounded AI.
+I enjoy taking ideas from architecture to implementation: designing APIs, building data and retrieval pipelines, integrating models and tools, testing failure paths, and deploying usable products.
 
-* FastAPI + Next.js + PostgreSQL architecture
-* Environmental data ingestion and provenance tracking
-* Evidence-grounded AI analysis and responses
-* Redis + Celery data infrastructure
-* Authentication and access control
-* Observability and CI/CD
-* Integration with NASA, Copernicus, and other environmental data sources
+My current interests include:
 
-**Focus:** AI systems · Full-stack engineering · Data infrastructure · Scientific computing · Autonomous agents
+- **AI engineering:** agentic workflows, RAG, retrieval, evaluation, and grounded generation.
+- **Systems engineering:** distributed services, observability, reliability, and security.
+- **Autonomous systems:** multi-agent coordination, swarm robotics, and simulation.
+- **Product engineering:** turning technically ambitious ideas into maintainable software.
 
----
+> I care about systems that remain useful when conditions stop being ideal.
 
-### [Market Research Agent](https://github.com/721189/Market-Research-Agent)
+## Selected work
 
-**Autonomous Market Intelligence System**
+### 01 · [Synapse Memory](https://github.com/721189/Synapse-Memory)
+**Persistent memory infrastructure for AI applications**
 
-* Autonomous research workflows
-* LLM-driven information extraction and synthesis
-* Tool-based agent execution
-* Evidence-oriented research pipelines
-* Structured market intelligence generation
+A self-hostable memory layer designed for applications that need durable, retrievable, tenant-aware context.
 
-**Focus:** AI agents · LLM systems · Research automation · Information synthesis
+- Hybrid retrieval combining lexical and vector search.
+- Token-budget-aware context selection.
+- PostgreSQL-backed storage and tenant isolation.
+- Python SDK, HTTP API, and developer-facing observability.
 
----
+Python · FastAPI · PostgreSQL · pgvector · Node.js · React
 
-### [Swarm Robotics](https://github.com/721189/swarm-robotics)
+[PyPI package](https://pypi.org/project/synapse-memory-engine/) · [Repository](https://github.com/721189/Synapse-Memory)
 
-**Communication-Constrained Swarm Research**
+### 02 · [AetherLab](https://github.com/721189/AetherLab)
+**Environmental intelligence and autonomous-agent platform**
 
-* TDMA-based communication models
-* CBBA and decentralized task allocation
-* Packet-loss and communication constraints
-* Fault-tolerant coordination
-* Event-driven consensus
-* Statistical evaluation and reproducible benchmarking
-* Multi-agent simulation and 3D visualization
+A platform that brings geospatial and environmental observations together with evidence-grounded AI workflows.
 
-**Focus:** Swarm robotics · multi-agent coordination · Communication-constrained systems · Simulation
+- Integrates weather, air-quality, satellite, and reanalysis data sources.
+- Tracks observation provenance and uncertainty.
+- Uses a provider-based ingestion architecture and asynchronous processing.
+- Connects retrieved evidence to AI-generated analysis.
 
----
+Python · FastAPI · Next.js · PostgreSQL · Redis · Celery
 
-### Project stubs in this repository
+[Repository](https://github.com/721189/AetherLab)
 
-- [Swarmos](https://github.com/721189/721189/blob/main/projects/swarmos/README.md) — Lightweight swarm operating system for modular robots.
-- [Swarm Robotics (repo stub)](https://github.com/721189/721189/blob/main/projects/swarm-robotics/README.md) — Research and experiments for multi-robot coordination algorithms.
-- [OmniApply Agent](https://github.com/721189/721189/blob/main/projects/omniapply-agent/README.md) — Intelligent agent to automate job/application workflows across platforms.
-- [Market Metrics](https://github.com/721189/721189/blob/main/projects/market-metrics/README.md) — Tools and dashboards to collect, analyze, and visualize market data.
-- [Synapse Memory](https://github.com/721189/721189/blob/main/projects/synapse-memory/README.md) — Memory system for cognitive architectures and long-term representation.
+### 03 · [SWARMOS](https://github.com/721189/SWARMOS)
+**Secure and resilient swarm orchestration research**
 
----
+A research-oriented framework exploring decentralized coordination under communication degradation, failures, and adversarial inputs.
 
-## 🔬 Research
+- CBBA-based task allocation and coordination.
+- Anomaly-aware validation and node isolation.
+- Failure injection, recovery mechanisms, and stress testing.
+- Reproducible experiments and statistical evaluation.
 
-My current research interests include:
+[Repository](https://github.com/721189/SWARMOS)
 
-* Multi-agent systems
-* Swarm robotics
-* Distributed consensus
-* Byzantine fault tolerance
-* Reinforcement learning
-* Reliable and safety-aware AI systems
-* AI agents and LLM-integrated systems
-* Reproducible experimentation and empirical evaluation
+### 04 · [Swarm Robotics](https://github.com/721189/swarm-robotics)
+**Communication-constrained multi-agent simulation**
 
----
+A simulation environment for studying decentralized robot coordination with realistic communication constraints.
 
-## 🎓 Education
+- Local-neighbour coordination and task allocation.
+- TDMA scheduling and packet-loss modelling.
+- Fault recovery and performance measurements.
+- 2D/3D simulation visualizations and reproducible experiments.
 
-**Indian Institute of Technology Madras (IIT Madras)**
-BS in Data Science and Applications · **2026–Present**
+[Live simulation](https://swarm-robotics-cufdk4uidsgg22595mggw3.streamlit.app/) · [Repository](https://github.com/721189/swarm-robotics)
 
----
+### 05 · [Market Metrics](https://github.com/721189/Market-Metrics)
+**Evidence-first market research system**
 
-## 🌐 Developer & Research Ecosystem
+An autonomous research workflow designed around a clear separation between source evidence, model reasoning, and deterministic calculations.
 
-* **Google:** Google Developer Program · GEAR
-* **AWS:** AWS Builder · SBG IIT Madras
-* **NVIDIA:** NVIDIA Developer Program
+- Source discovery and evidence extraction.
+- Claim verification and citation-oriented reporting.
+- Structured research workflows and live progress events.
+- Deterministic financial calculations.
 
-These ecosystems support my work across AI, cloud, developer technologies, and autonomous systems.
+[Repository](https://github.com/721189/Market-Metrics)
 
----
+### 06 · [OmniApply Agent](https://github.com/721189/OmniApply-Agent)
+**AI-assisted career workflow automation**
 
-## 🛠️ Technical Interests
+An agent-oriented application for organizing job research and preparing application materials from a candidate's technical footprint.
 
-**AI & ML**
-AI Agents · LLM Systems · RAG · Information Retrieval · Evaluation · Applied ML
-
-**Software & Systems**
-Python · TypeScript · FastAPI · Next.js · React · Node.js · PostgreSQL · Redis · Celery · Docker · CI/CD
-
-**Research & Autonomous Systems**
-Multi-Agent Systems · Swarm Robotics · Distributed Coordination · Consensus · Simulation · Statistical Benchmarking
+[Repository](https://github.com/721189/OmniApply-Agent)
 
 ---
 
-## 📌 What I Build
+## Technical toolkit
 
-I am particularly interested in systems that must remain **useful, reliable, and measurable under difficult conditions**.
+<div align="center">
 
-That includes:
+**Languages**
 
-* Distributed and decentralized systems
-* Autonomous multi-agent coordination
-* AI agents operating over real data and tools
-* Safety- and reliability-oriented AI systems
-* Reproducible research infrastructure
-* Full-stack systems that turn research ideas into usable products
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,sql&theme=dark" alt="Python, TypeScript, JavaScript, Java, C++, SQL"/>
 
----
+**Frameworks & infrastructure**
 
-## 🔗 Connect
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,postgres,redis,docker,git,github,linux&theme=dark" alt="FastAPI, React, Next.js, Node.js, PostgreSQL, Redis, Docker, Git, GitHub, Linux"/>
 
-* [LinkedIn](https://www.linkedin.com/in/shivam-singh360)
-* [Substack](https://shivlab.substack.com/)
-* [GitHub](https://github.com/721189)
+</div>
 
----
+I use these tools across projects; the exact stack varies by repository.
 
-> **Building systems that remain useful when conditions stop being ideal.**
+## Research interests
 
+- Multi-agent systems and swarm robotics
+- Decentralized coordination and consensus
+- Communication-constrained systems
+- Fault tolerance and resilient autonomy
+- Applied machine learning and reinforcement learning
+- Reliable, evidence-grounded AI systems
 
----
+## Education
 
-*Committed to building systems that work under adversarial conditions.*
+**Indian Institute of Technology Madras**  
+BS in Data Science and Applications · 2026–Present
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=721189&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub contribution statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=721189&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=721189&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+</div>
+
+## Let's connect
+
+I'm interested in thoughtful engineering collaborations, AI systems, autonomous agents, and research conversations.
+
+- **LinkedIn:** [shivam-singh360](https://www.linkedin.com/in/shivam-singh360)
+- **GitHub:** [@721189](https://github.com/721189)
+- **Writing:** [ShivLab](https://shivlab.substack.com/)
+
+<div align="center">
+
+*Build carefully. Measure honestly. Make it work in the real world.*
+
+</div>
