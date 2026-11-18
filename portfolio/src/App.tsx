@@ -76,7 +76,7 @@ function App() {
   const [menu,setMenu]=useState(false);
   const stats=useGithub();
   const reduce=useReducedMotion();
-  const reveal={hidden:{opacity:0,y:24},show:{opacity:1,y:0,transition:{duration:0.65,ease:[0.2,0.7,0.2,1]}}};
+  const reveal={hidden:{opacity:0,y:24},show:{opacity:1,y:0,transition:{duration:0.65,ease:"easeOut"}}};
   const close=()=>setMenu(false);
   return <div className="app-shell">
     <div className="noise"/>
