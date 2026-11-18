@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Shivam Singh — AI and Systems Engineer</title>
+<desc id="desc">A dark technical banner with a glowing network motif and the message building intelligent systems.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1b"/><stop offset="1" stop-color="#111b35"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#52e5ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#4ddcff" stop-opacity=".28"/><stop offset="1" stop-color="#4ddcff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<circle cx="940" cy="150" r="230" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" stroke-opacity=".65" stroke-width="1.5">
+ <path d="M760 72 860 118 980 66 1090 130 1000 230 870 220 760 72M860 118 870 220M980 66 1000 230M1090 130 870 220M860 118 1090 130"/>
+ <path d="M760 72 1000 230M980 66 870 220" stroke-opacity=".3"/>
+</g>
+<g fill="#7cecff"><circle cx="760" cy="72" r="5"/><circle cx="860" cy="118" r="7"/><circle cx="980" cy="66" r="5"/><circle cx="1090" cy="130" r="6"/><circle cx="1000" cy="230" r="7"/><circle cx="870" cy="220" r="5"/></g>
+<g fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="76" y="112" font-size="18" letter-spacing="5" fill="#8deaff">ENGINEERING • RESEARCH • BUILDING</text>
+ <text x="72" y="178" font-size="54" font-weight="700">Shivam Singh</text>
+ <text x="76" y="222" font-size="21" fill="#b8c7e6">AI systems · Full-stack engineering · Autonomous agents</text>
+ <text x="76" y="270" font-size="14" letter-spacing="2" fill="#8295bb">BUILDING SYSTEMS THAT WORK BEYOND THE HAPPY PATH</text>
+</g>
+</svg>
