@@ -117,6 +117,10 @@ function App() {
         <div className="hero-visual">
           <div className="visual-label top"><span>FIG 01 / SYSTEM CORE</span><span>INTERACTIVE MODEL</span></div>
           <HeroScene/>
+          <figure className="hero-portrait">
+            <img src="/shivam-portrait.webp" alt="Illustrated portrait of Shivam Singh holding a warm cup of tea" width="600" height="600" fetchPriority="high" decoding="async"/>
+            <figcaption>THE PERSON BEHIND THE SYSTEMS</figcaption>
+          </figure>
           <div className="visual-coordinates">AI ENGINEERING / 001<br/>FULL-STACK SYSTEMS</div>
           <div className="orbit-tag tag-one"><Cpu size={13}/> AI SYSTEMS</div>
           <div className="orbit-tag tag-two"><Orbit size={13}/> PRODUCT ENGINEERING</div>
@@ -146,10 +150,6 @@ function App() {
         <div className="section-kicker"><span>02 / THE ENGINEER</span><span>ABOUT</span></div>
         <div className="about-grid">
           <motion.div className="about-heading" initial={reduce?false:"hidden"} whileInView="show" viewport={{once:true,amount:0.25}} variants={reveal}><h2>From system design<br/>to <em>working software.</em></h2></motion.div>
-          <motion.figure className="about-portrait" initial={reduce?false:"hidden"} whileInView="show" viewport={{once:true,amount:0.25}} variants={reveal}>
-            <img src="/shivam-portrait.webp" alt="Illustrated portrait of Shivam Singh holding a warm cup of tea" width="600" height="600" loading="lazy" decoding="async"/>
-            <figcaption>THE PERSON BEHIND THE SYSTEMS</figcaption>
-          </motion.figure>
           <motion.div className="about-copy" initial={reduce?false:"hidden"} whileInView="show" viewport={{once:true,amount:0.25}} variants={reveal}>
             <p className="lead">I’m an independent engineering contributor and an IIT Madras BS student focused on AI engineering and full-stack systems.</p>
             <p>I build across AI infrastructure, agentic workflows, data-intensive applications and autonomous systems. I enjoy the complete engineering loop: understanding a requirement, designing the implementation, testing important failure paths and documenting what ships.</p>
