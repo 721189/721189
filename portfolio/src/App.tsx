@@ -90,7 +90,7 @@ function App() {
   return <div className="app-shell">
     <div className="noise"/>
     <header className="topbar">
-      <a className="brand" href="#home" onClick={close}><span className="brand-mark">S<span>.</span></span><span>SHIVAM SINGH</span></a>
+      <a className="brand" href="#home" onClick={close}><img className="brand-portrait" src="/shivam-portrait.webp" alt="Illustrated portrait of Shivam Singh" width="44" height="44" fetchPriority="high" decoding="async"/><span className="brand-name">Shivam Singh</span></a>
       <nav className={menu?"nav-links open":"nav-links"} aria-label="Main navigation">
         {[["Services","#services"],["Work","#projects"],["About","#about"],["Contact","#contact"]].map(([label,href])=><a key={href} href={href} onClick={close}>{label}</a>)}
       </nav>
@@ -117,10 +117,6 @@ function App() {
         <div className="hero-visual">
           <div className="visual-label top"><span>FIG 01 / SYSTEM CORE</span><span>INTERACTIVE MODEL</span></div>
           <HeroScene/>
-          <figure className="hero-portrait">
-            <img src="/shivam-portrait.webp" alt="Illustrated portrait of Shivam Singh holding a warm cup of tea" width="600" height="600" fetchPriority="high" decoding="async"/>
-            <figcaption>THE PERSON BEHIND THE SYSTEMS</figcaption>
-          </figure>
           <div className="visual-coordinates">AI ENGINEERING / 001<br/>FULL-STACK SYSTEMS</div>
           <div className="orbit-tag tag-one"><Cpu size={13}/> AI SYSTEMS</div>
           <div className="orbit-tag tag-two"><Orbit size={13}/> PRODUCT ENGINEERING</div>
