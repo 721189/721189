@@ -57,20 +57,14 @@
  .paid-pilot strong{font-size:12px}
 }
 
-/* Personal portrait in the About section */
-.about-grid{grid-template-columns:minmax(190px,.82fr) minmax(210px,.78fr) minmax(280px,1.25fr);align-items:center;gap:34px}
-.about-portrait{margin:0;min-width:0;display:flex;flex-direction:column;gap:12px;align-items:stretch}
-.about-portrait img{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;background:#f7f5f1;border:1px solid rgba(255,255,255,.12);border-radius:10px;box-shadow:0 22px 70px rgba(0,0,0,.28)}
-.about-portrait figcaption{font:8px 'DM Mono',monospace;letter-spacing:1.35px;color:#718696;text-align:center}
-.about-heading h2{max-width:360px}
-@media(max-width:1000px){
- .about-grid{grid-template-columns:minmax(190px,.8fr) minmax(240px,1.2fr);gap:28px}
- .about-heading{grid-column:1/-1}
- .about-portrait{grid-column:1;grid-row:2;max-width:320px}
- .about-copy{grid-column:2;grid-row:2}
+/* Compact portrait in the first-screen hero */
+.hero-portrait{position:absolute;z-index:5;right:5%;bottom:42px;width:clamp(122px,13vw,156px);margin:0;padding:7px;background:#f7f5f1;border:1px solid rgba(255,255,255,.2);border-radius:13px;box-shadow:0 18px 55px rgba(0,0,0,.38)}
+.hero-portrait img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:contain;border-radius:7px}
+.hero-portrait figcaption{padding:7px 2px 2px;text-align:center;color:#41515d;font:7px 'DM Mono',monospace;letter-spacing:.8px;white-space:nowrap}
+@media(max-width:800px){
+ .hero-portrait{right:4%;bottom:34px;width:clamp(112px,22vw,136px)}
 }
-@media(max-width:650px){
- .about-grid{grid-template-columns:1fr;gap:26px}
- .about-heading,.about-portrait,.about-copy{grid-column:1;grid-row:auto}
- .about-portrait{max-width:300px;margin:0 auto;width:100%}
+@media(max-width:430px){
+ .hero-portrait{right:3%;bottom:27px;width:112px;padding:6px}
+ .hero-portrait figcaption{font-size:6px;letter-spacing:.55px}
 }
