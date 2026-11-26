@@ -7,7 +7,7 @@
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=70E1F5&center=true&vCenter=true&width=720&lines=Engineering+AI-powered+systems;Building+reliable+agents+and+developer+tools;Exploring+multi-agent+systems+%26+swarm+robotics;Turning+research+ideas+into+working+software" alt="Animated introduction"/></a>
 
 <p>
-  <a href="https://shivam-engineering-portfolio-721189s-projects.vercel.app/">Live Portfolio</a> ·
+  <a href="https://shivam-engineering-portfolio.vercel.app/">Live Portfolio</a> ·
   <a href="https://www.linkedin.com/in/shivam-singh360">LinkedIn</a> ·
   <a href="https://github.com/721189?tab=repositories">Projects</a> ·
   <a href="https://shivlab.substack.com/">Writing</a>
@@ -21,7 +21,13 @@
 
 Explore my interactive portfolio featuring a live 3D systems visualisation, selected engineering projects, research interests, and live GitHub metrics.
 
-**[Open the live portfolio →](https://shivam-engineering-portfolio-721189s-projects.vercel.app/)** · [View source code](https://github.com/721189/721189/tree/main/portfolio)
+**[Open the live portfolio →](https://shivam-engineering-portfolio.vercel.app/)** · [View source code](https://github.com/721189/721189/tree/main/portfolio)
+
+## Remote engineering support
+
+I'm open to scoped remote collaboration with software agencies, AI studios, and early-stage product teams. I can contribute to AI/LLM integrations, full-stack features, backend APIs, data workflows, testing, and deployment handoffs. I prefer clearly scoped, paid milestones with explicit acceptance criteria.
+
+**[Discuss an engineering project](https://www.linkedin.com/in/shivam-singh360)**
 
 ## About
 
